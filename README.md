@@ -35,32 +35,32 @@ Clone this repository to your local machine using the following command:
 
 bash
 git clone https://github.com/Mahdi951-pro/gesture-controlled-youtube-player.git
-Step 2: Install Required Libraries
+### Step 2: Install Required Libraries
 Navigate to the project directory and install the required Python libraries:
 
 bash
 Copy code
 pip install opencv-python mediapipe pyautogui
-Step 3: Run the Script
+### Step 3: Run the Script
 You can run the project script with the following command:
 
 bash
 Copy code
 python gesture_controlled_youtube.py
-Step 4: Use the Gestures
+### Step 4: Use the Gestures
 Once the script runs, use the specified hand gestures in front of the camera to control YouTube playback.
 
 Running the Project in PyCharm
-Step 1: Open the Project in PyCharm
+### Step 1: Open the Project in PyCharm
 Open PyCharm and navigate to File > Open.
 You can just select the project directory you cloned earlier.
-Step 2: Install the Required Libraries
+### Step 2: Install the Required Libraries
 Open the Terminal in PyCharm.
 Run the following command to install the necessary libraries:
 bash
 Copy code
 pip install opencv-python mediapipe pyautogui
-Step 3: Run the Script
+### Step 3: Run the Script
 Right-click on the gesture_controlled_youtube.py file in the Project Explorer.
 Select Run 'gesture_controlled_youtube.py'.
 The script will start, and you can use the gestures to control YouTube playback.
